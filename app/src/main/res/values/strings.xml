@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="as">我的微信</string>
+    <string name="ak">我</string>
+    <string name="ac">商城</string>
+    <string name="ad">排行榜</string>
+    <string name="ap">主页</string>
+    <string name="kj">我</string>
+</resources>
